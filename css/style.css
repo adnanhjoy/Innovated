@@ -1,3 +1,17 @@
+body {
+    margin: 0;
+}
+
 .header-image img {
     height: 300px;
+}
+
+.about-image img {
+    height: 400px;
+
+}
+
+.progress-image img {
+    height: 50px;
+    width: 50px;
 }
