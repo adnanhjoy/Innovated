@@ -20,3 +20,8 @@ body {
     height: 80px;
     width: 80px;
 }
+
+.client-image img {
+    height: 100px;
+    width: 100px;
+}
