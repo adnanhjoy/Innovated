@@ -15,3 +15,8 @@ body {
     height: 50px;
     width: 50px;
 }
+
+.feature-image img {
+    height: 80px;
+    width: 80px;
+}
